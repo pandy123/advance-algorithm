@@ -1,0 +1,19 @@
+{
+  "name": "advance-algorithm",
+  "version": "1.0.0",
+  "description": "高级算法课程",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pandy123/advance-algorithm.git"
+  },
+  "author": "YB.Huang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pandy123/advance-algorithm/issues"
+  },
+  "homepage": "https://github.com/pandy123/advance-algorithm#readme"
+}
